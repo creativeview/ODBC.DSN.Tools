@@ -1,7 +1,28 @@
 ODBC.DSN.Tools
 ==============
 
-PowerShell ODBC.DSN.Tools
+PowerShell ODBC.DSN.Tools to add a 64bit or 32bit System DSN for Microsoft SQL 2008 or Microsoft SQL 2012. 
+
+Usage
+--------
+
+###### Add-SystemDSN cmdlet 
+
+| Parameter   | Usage                        | 
+| ----------- | ---------------------------- | 
+| DSNName     | DSN Name                     |
+| DBName      | SQL DB Name                  |
+| DBSrvIP     | Database Server Address      |
+| SQLver      | MS SQL version. 2008 or 2012 |
+| DSN64bit    | 64 bit or 32 bit DSN         |
+
+###### Remove-SystemDSN cmdlet 
+
+| Parameter   | Usage                        | 
+| ----------- | ---------------------------- | 
+| DSNName     | DSN Name                     |
+| DSN64bit    | 64 bit or 32 bit DSN         |
+
 
 Examples
 --------
