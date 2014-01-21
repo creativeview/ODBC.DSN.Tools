@@ -1,0 +1,6 @@
+{
+"DSN": [
+	{ "DSNName": "vCenter", "DBName": "vCenter", "DBSrvIP": "192.168.1.31", "SQLver": "2012", "DSN64bit": true },
+	{ "DSNName": "VUM", "DBName": "VUM", "DBSrvIP": "192.168.1.31", "SQLver": "2012", "DSN64bit": false }
+]
+}

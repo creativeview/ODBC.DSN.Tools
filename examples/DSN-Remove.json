@@ -1,0 +1,6 @@
+{
+"DSN": [
+	{ "DSNName": "vCenter", "DSN64bit": true },
+	{ "DSNName": "VUM", "DSN64bit": false }
+]
+}
